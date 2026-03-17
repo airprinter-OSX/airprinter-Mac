@@ -1,4 +1,4 @@
-# airprinter – Wireless Printing from Any Device to Any Printer
+# Airprinter – Wireless Printing from Any Device to Any Printer
 
 <p align="center">
   <img src="https://developer.apple.com/assets/elements/icons/airprint/airprint-96x96_2x.png" width="200" alt="airprinter icon"/>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.canon.ru/media/3_tcm203-1946974.png" alt="airprinter screenshot"/>
+  <img src="https://www.geekbitzone.com/posts/2021/macos/airprint/img/macos-airprint-1.png" alt="airprinter screenshot"/>
 </p>
 
 ---
